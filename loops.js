@@ -24,4 +24,5 @@ function doWhileLoop(array){
   do {
     
   }
+  return 
 }

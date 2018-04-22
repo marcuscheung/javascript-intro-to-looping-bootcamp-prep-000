@@ -12,5 +12,5 @@ function forLoop(array){
 
 function whileLoop(number){
   while (countdown > 0);
-  
+  con
 }

@@ -17,4 +17,4 @@ function whileLoop(number){
     return 'done'
 }
 
-function doWhite
+function doWhileLoop()
